@@ -42,5 +42,5 @@ func OpenFileAndFindString(filename string, expected string) bool {
 		}
 	}
 
-	return false
+	return true
 }
